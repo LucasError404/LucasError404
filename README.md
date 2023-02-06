@@ -6,6 +6,6 @@ i'm a developer
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,ansible,arduino,bash,docker,bootstrap,express,github,gitlab,html,css,js,nodejs,idea,java,laravel,linux,mysqlnginx,php,postgres,postman,py,raspberrypi,react,spring,tailwind,ts,vscode,visualstudio,bsd&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,ansible,arduino,bash,docker,bootstrap,express,github,gitlab,html,css,js,nodejs,idea,java,laravel,linux,mysql,nginx,php,postgres,postman,py,raspberrypi,react,spring,tailwind,ts,vscode,visualstudio,bsd&theme=light" />
   </a>
 </p>
