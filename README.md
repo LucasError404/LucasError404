@@ -7,7 +7,7 @@
   <br>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasError404&theme=ayu-mirage&show_icons=true" />
+img align="center" src="https://github-readme-stats.vercel.app/api?username=LucasError404&theme=ayu-mirage&show_icons=true" />
   </p>
 <br>
 <br>
